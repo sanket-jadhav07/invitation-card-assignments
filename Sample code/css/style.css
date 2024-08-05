@@ -8,6 +8,7 @@
     height: 100vh;
 } */
 
+
 /* Wrapper for the invitation card */
 .invitation-wrapper {
     width: 210mm;
@@ -83,6 +84,8 @@
     width: 80%;
     padding: 20px;
     text-align: center;
+    text-align: center;
+
 }
 
 .invitation-header {
@@ -92,15 +95,19 @@
     position: absolute;
     top: -89mm;
     left: 38mm;
+    text-align: center;
+
 }
 .event-name {
     font-size: 4rem;
     color: #27115d;
     margin-bottom: 10px;
     position: absolute;
-    top: -77mm;
-    left: 19mm;
+    top: -74mm;
+    left: 31mm;
     font-weight: bold;
+    text-align: center;
+
 }
 .date {
     font-size: 2.2rem;
@@ -109,6 +116,8 @@
     top: 23mm;
     left: 17mm;
     font-weight: bold;
+    text-align: center;
+
 }
 .time {
     font-size: 2.2rem;
@@ -117,6 +126,8 @@
     top: 37mm;
     left: 37mm;
     font-weight: bold;
+    text-align: center;
+
 }
 
 .location {
@@ -126,6 +137,8 @@
     top: 23mm;
     left: 107mm;
     font-weight: bold;
+    text-align: center;
+
 }
 
 /* Additional content styling */
@@ -136,6 +149,8 @@
     position: absolute;
     top: -103mm;
     left: 47mm;
+    text-align: center;
+
 }
 
 .tagline {
@@ -145,6 +160,8 @@
     position: absolute;
     top: -88mm;
     left: 40mm;
+    text-align: center;
+
 }
 
 .event-subheading {
@@ -154,6 +171,8 @@
     position: absolute;
     top: -54mm;
     left: 24mm;
+    text-align: center;
+
 }
 .event-pre-description {
     font-size: 1.8rem;
@@ -162,6 +181,8 @@
     position: absolute;
     top: 50mm;
     left: 3mm;
+    text-align: center;
+
 }
 
 .event-description {
@@ -169,17 +190,19 @@
     color: #27115d;
     margin-bottom: 5px;
     position: absolute;
-    top: 66mm;
+    top: 55mm;
     left: 3mm;
+    text-align: center;
 }
 
 .event-organizer {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     color: #27115d;
     margin-bottom: 5px;
     position: absolute;
-    top: 106mm;
-    left: 24mm;
+    top: 95mm;
+    left: 37mm;
+    text-align: center;
 }
 
 .event-other-organizers {
@@ -187,8 +210,9 @@
     color: #27115d;
     margin-bottom: 5px;
     position: absolute;
-    top: 114mm;
-    left: 31mm;
+    top: 103mm;
+    left: 38mm;
+    text-align: center;
 }
 
 .event-organizers-contact-person {
@@ -198,6 +222,8 @@
     position: absolute;
     top: 129mm;
     left: 65mm;
+    text-align: center;
+
 }
 
 .event-organizers-contact-number {
@@ -207,6 +233,8 @@
     position: absolute;
     top: 137mm;
     left: 65mm;
+    text-align: center;
+
 }
 .event-participant-1 {
     font-size: 6rem;
@@ -216,6 +244,9 @@
     top: -27mm;
     left: 115mm;
     font-weight: bold;
+    text-align: center;
+    font-family: 'Alex Brush';
+
 }
 
 .event-participant-1-details {
@@ -225,6 +256,8 @@
     position: absolute;
     top: 2mm;
     left: 112mm;
+    text-align: center;
+
 }
 
 .event-participant-2 {
@@ -235,6 +268,9 @@
     top: -31mm;
     left: -3mm;
     font-weight: bold;
+    text-align: center;
+    font-family: 'Alex Brush';
+
 }
 .event-participant-2-details {
     font-size: 2.2rem;
@@ -243,4 +279,6 @@
     position: absolute;
     top: 2mm;
     left: 7mm;
+    text-align: center;
+
 }
